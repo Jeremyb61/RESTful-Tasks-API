@@ -1,0 +1,16 @@
+.root{
+    outline: 3px solid orange;
+}
+h1{
+    display: inline-block; 
+}
+.add{
+    display: inline-block;
+}
+.mytasks{
+    display: inline-block;
+    vertical-align: top;
+    width: 320px;
+    min-height:100px;
+
+}
